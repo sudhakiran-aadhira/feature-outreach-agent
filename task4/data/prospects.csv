@@ -1,0 +1,11 @@
+company,contact_name,email,industry,size
+Acme,John Smith,john.smith@acme.com,Technology,Enterprise
+BetaCorp,Sarah Lee,sarah.lee@betacorp.com,Finance,Medium
+CloudWorks,David Kumar,david.kumar@cloudworks.com,Technology,Large
+HealthPlus,Priya Sharma,priya.sharma@healthplus.com,Healthcare,Enterprise
+RetailPro,Michael Brown,michael.brown@retailpro.com,Retail,Large
+FinServe,Anita Rao,anita.rao@finserve.com,Finance,Medium
+DataCore,Ravi Patel,ravi.patel@datacore.com,Technology,Large
+GreenTech,Emily Wilson,emily.wilson@greentech.com,Energy,Medium
+LogiTrans,Robert Davis,robert.davis@logitrans.com,Logistics,Large
+InvalidCo,Invalid Person,invalid-email,Technology,Small

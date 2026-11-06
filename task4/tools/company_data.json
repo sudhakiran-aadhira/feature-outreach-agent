@@ -1,0 +1,63 @@
+{
+    "Acme": {
+        "news": "Acme announced expansion of its cloud technology business.",
+        "products": [
+            "Cloud infrastructure",
+            "Enterprise software",
+            "Analytics platform"
+        ],
+        "pain_points": [
+            "Scaling cloud infrastructure",
+            "Improving operational efficiency",
+            "Managing enterprise data"
+        ]
+    },
+    "BetaCorp": {
+        "news": "BetaCorp announced a new digital banking initiative.",
+        "products": [
+            "Financial services platform",
+            "Payment solutions"
+        ],
+        "pain_points": [
+            "Digital transformation",
+            "Customer experience",
+            "Regulatory reporting"
+        ]
+    },
+    "CloudWorks": {
+        "news": "CloudWorks expanded its enterprise cloud portfolio.",
+        "products": [
+            "Cloud management",
+            "DevOps platform"
+        ],
+        "pain_points": [
+            "Cloud cost management",
+            "Infrastructure scaling",
+            "Security"
+        ]
+    },
+    "HealthPlus": {
+        "news": "HealthPlus launched a new healthcare technology platform.",
+        "products": [
+            "Healthcare analytics",
+            "Patient management software"
+        ],
+        "pain_points": [
+            "Patient data integration",
+            "Healthcare compliance",
+            "Operational efficiency"
+        ]
+    },
+    "RetailPro": {
+        "news": "RetailPro expanded its omnichannel retail operations.",
+        "products": [
+            "Retail analytics",
+            "Inventory platform"
+        ],
+        "pain_points": [
+            "Inventory optimization",
+            "Customer personalization",
+            "Supply chain efficiency"
+        ]
+    }
+}
